@@ -1,0 +1,8 @@
+http://nadbordrozd.github.io/blog/2020/09/07/embedding-sets-of-vectors-with-emde/
+
+
+paper: https://arxiv.org/abs/2006.01894
+
+2 Python implementations:
+
+https://paperswithcode.com/paper/an-efficient-manifold-density-estimator-for
