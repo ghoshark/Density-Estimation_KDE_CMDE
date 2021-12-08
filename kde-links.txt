@@ -1,0 +1,6 @@
+
+https://stackabuse.com/kernel-density-estimation-in-python-using-scikit-learn/
+
+https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.13-Kernel-Density-Estimation.ipynb#scrollTo=-N89X_9Iy1RB
+
+https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.10-Manifold-Learning.ipynb#scrollTo=5SpZfb4HTzrs
